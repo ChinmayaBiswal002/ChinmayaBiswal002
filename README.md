@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from India, Learning Spring & Java and Looking for opportunities</h3>
 
 <!-- LinkedIn / header banner image -->
-![LinkedIn Banner](./Asset/1742315072950.jpeg)
+![LinkedIn Banner](./Asset/1742315072950.jpg)
 
 - - 📫 How to reach me: chinmayabiswal2004@gmail.com
 
